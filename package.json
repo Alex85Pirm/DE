@@ -1,5 +1,5 @@
 {
-  "name": "ad-site-demo",
+  "name": "ad-site",
   "version": "1.0.0",
   "scripts": {
     "dev": "next dev",
